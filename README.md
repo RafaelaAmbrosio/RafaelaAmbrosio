@@ -21,7 +21,7 @@
   <a href="https://twitter.com/RafaelaAmbros12" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"/></a>
 </div>
 
-![Snake animation](https://github.com/RafaelaAmbrosio/RafaelaAmbrosio)
+![snake gif](https://github.com/RafaelaAmbrosio/RafaelaAmbrosio/blob/output/github-contribution-grid-snake.svg)
 <!--
 **RafaelaAmbrosio/RafaelaAmbrosio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
