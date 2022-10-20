@@ -22,6 +22,8 @@
 </div>
 
 ![snake gif](https://github.com/RafaelaAmbrosio/RafaelaAmbrosio/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **RafaelaAmbrosio/RafaelaAmbrosio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
