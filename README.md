@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, meu nome é Rafaela 👋
 
 - 🌱 Atualmente estou cursando Desenvolvimento de Software na Cubos Academy
 
