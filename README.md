@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou cursando Desenvolvimento de Software na Cubos Academy
 
-<div style="display: inline_block">
+<div style="display: flex">
   <a href="https://github.com/RafaelaAmbrosio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelaAmbrosio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaAmbrosio&show_icons=true&theme=tokyonight&layout=compact" />
