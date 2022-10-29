@@ -4,14 +4,10 @@
 
 <div >
   <a href="https://github.com/RafaelaAmbrosio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelaAmbrosio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaAmbrosio&show_icons=true&theme=tokyonight&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelaAmbrosio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaAmbrosio&show_icons=true&theme=tokyonight&layout=compact" />
   </a>
 </div>
-<div>
-
-</div>
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="logo javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
