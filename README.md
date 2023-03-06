@@ -1,9 +1,11 @@
 ### Olá, meu nome é Rafaela 👋
 
-- 🌱 Atualmente estou cursando Desenvolvimento de Software na Cubos Academy
+Sou Desenvolvedora Full-Stack apaixonada por animais, jogos de RPG e livros de aventura e fantasia.<br>
+Ao realizar o Bootcamp DiversiData Tech PAN descobri uma nova paixão e decidi ingressar no curso de Desenvolvimento de Software Full Stack da Cubos Academy para aprofundar ainda mais meu conhecimento.
 
-<div >
-  <a href="https://github.com/RafaelaAmbrosio">
+
+<div style="display: inline_block" >
+  <a  href="https://github.com/RafaelaAmbrosio">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RafaelaAmbrosio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaAmbrosio&show_icons=true&theme=tokyonight&layout=compact" />
   </a>
