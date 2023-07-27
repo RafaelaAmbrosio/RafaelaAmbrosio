@@ -1,6 +1,6 @@
 ### Olá, meu nome é Rafaela 👋
 
-Sou Desenvolvedora Full-Stack apaixonada por animais, jogos de RPG e livros de aventura e fantasia.<br>
+Sou Engenheira de Software Jr apaixonada por animais, jogos de RPG e livros de aventura e fantasia.<br>
 Ao realizar o Bootcamp DiversiData Tech PAN descobri uma nova paixão e decidi ingressar no curso de Desenvolvimento de Software Full Stack da Cubos Academy para aprofundar ainda mais meu conhecimento.
 
 
